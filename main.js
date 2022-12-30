@@ -28,7 +28,6 @@ random.style.backgroundColor = random_color;
 console.log(random_color);
 
 // TODO
-// transfer these to my local hard drive lmao
 // add some sort of visual feedback for the colors that are being changed
 // make the sliders more fun, i guess...
 // add an appealing like "Train your artist eye" or something like that...

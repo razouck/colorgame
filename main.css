@@ -1,0 +1,22 @@
+
+:root
+{
+	--size: 300px;
+}
+
+input
+{
+  width: var(--size);
+}
+
+.color, .random
+{
+  height: var(--size);
+  width: var(--size);
+}
+
+.color
+{
+  background-color: black;
+}
+
